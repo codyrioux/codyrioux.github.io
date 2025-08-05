@@ -1,5 +1,3 @@
 # Via Negativa
 
-Some witty subtitle here...
-
-Testing gh-pages functionality.
+Testing gh-pages functionality, exploring the statistical consequences of fat tails.
