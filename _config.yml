@@ -1,1 +1,12 @@
+# Site settings
 title: Via Negativa
+email: cody.rioux@gmail.com
+description: Learning fat tails, preasymptotics and their applications in public.
+baseurl: ""
+url: "http://codyrioux.github.io"
+github_username: codyrioux
+
+# Build settings
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+theme: jekyll-theme-minimal # Or specify a remote_theme for non-GitHub Pages themes
