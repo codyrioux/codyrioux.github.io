@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "A Programmer's Introduction to Mathematics"
-subtitle: "Chapter 2: Polynomials Notes"
+title: "A Programmer's Introduction to Mathematics Chapter 2: Polynomials Notes"
 date: 2025-09-26 
 tags: pimbook, math, polynomials, mathematica
 render_with_liquid: false
